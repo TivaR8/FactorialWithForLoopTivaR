@@ -1,0 +1,10 @@
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialWithForLoopTivaR\FactorialWithForLoopTivaR\bin\Debug\FactorialWithForLoopTivaR.exe.config
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialWithForLoopTivaR\FactorialWithForLoopTivaR\bin\Debug\FactorialWithForLoopTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialWithForLoopTivaR\FactorialWithForLoopTivaR\bin\Debug\FactorialWithForLoopTivaR.pdb
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialWithForLoopTivaR\FactorialWithForLoopTivaR\obj\Debug\FactorialWithForLoopTivaR.csprojResolveAssemblyReference.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialWithForLoopTivaR\FactorialWithForLoopTivaR\obj\Debug\FactorialWithForLoopTivaR.frmFactorialWithForLoop.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialWithForLoopTivaR\FactorialWithForLoopTivaR\obj\Debug\FactorialWithForLoopTivaR.Properties.Resources.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialWithForLoopTivaR\FactorialWithForLoopTivaR\obj\Debug\FactorialWithForLoopTivaR.csproj.GenerateResource.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialWithForLoopTivaR\FactorialWithForLoopTivaR\obj\Debug\FactorialWithForLoopTivaR.csproj.CoreCompileInputs.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialWithForLoopTivaR\FactorialWithForLoopTivaR\obj\Debug\FactorialWithForLoopTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\FactorialWithForLoopTivaR\FactorialWithForLoopTivaR\obj\Debug\FactorialWithForLoopTivaR.pdb
